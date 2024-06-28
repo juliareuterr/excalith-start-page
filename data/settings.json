@@ -104,15 +104,15 @@
 						"target": "_top"
 					},
 					{
-						"name": "linkedin",
-						"url": "https://linkedin.com",
-						"icon": "mdi:linkedin",
-						"target": "_top"
-					},
-					{
 						"name": "github",
 						"url": "https://github.com/juliareuterr?tab=repositories",
 						"icon": "mdi:github",
+						"target": "_top"
+					},
+					{
+						"name": "venmo",
+						"url": "https://account.venmo.com",
+						"icon": "mdi:vimeo",
 						"target": "_top"
 					},
 					{
@@ -140,15 +140,15 @@
 						"target": "_top"
 					},
 					{
-						"name": "youtube",
-						"url": "https://youtube.com",
-						"icon": "mdi:youtube",
+						"name": "linkedin",
+						"url": "https://linkedin.com",
+						"icon": "mdi:linkedin",
 						"target": "_top"
 					},
 					{
-						"name": "pinterest",
-						"url": "https://www.pinterest.com/",
-						"icon": "mdi:pinterest",
+						"name": "youtube",
+						"url": "https://youtube.com",
+						"icon": "mdi:youtube",
 						"target": "_top"
 					}
 				]
