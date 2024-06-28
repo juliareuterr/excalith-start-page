@@ -33,12 +33,12 @@
 		"ctrlC": true,
 		"placeholder": "command...",
 		"placeholderColor": "gray",
-		"userColor": "green",
+		"userColor": "gray",
 		"atColor": "gray",
 		"hostColor": "magenta",
 		"promptColor": "magenta",
 		"promptSymbol": "❯",
-		"caretColor": "green",
+		"caretColor": "magenta",
 		"selectionBg": "yellow",
 		"selectionFg": "black"
 	},
@@ -75,24 +75,9 @@
 				"url": "https://google.com/search?q={}"
 			},
 			{
-				"alias": "d",
-				"name": "DuckDuckGo Search",
-				"url": "https://duckduckgo.com/?q={}"
-			},
-			{
-				"alias": "b",
-				"name": "Brave Search",
-				"url": "https://search.brave.com/search?q={}"
-			},
-			{
-				"alias": "gh",
-				"name": "Github Search",
-				"url": "https://github.com/search?q={}"
-			},
-			{
 				"alias": "s",
-				"name": "Stack Overflow Search",
-				"url": "https://stackoverflow.com/search?q={}"
+				"name": "Stardew Valley Wiki Search",
+				"url": "https://stardewvalleywiki.com/mediawiki/index.php?search={}&title=Special%3ASearch&go=Go"
 			},
 			{
 				"alias": "r",
@@ -110,7 +95,7 @@
 		"list": [
 			{
 				"title": "adult",
-				"color": "yellow",
+				"color": "magenta",
 				"links": [
 					{
 						"name": "bank",
@@ -140,7 +125,7 @@
 			},
 			{
 				"title": "social",
-				"color": "blue",
+				"color": "magenta",
 				"links": [
 					{
 						"name": "reddit",
@@ -170,7 +155,7 @@
 			},
 			{
 				"title": "streaming",
-				"color": "red",
+				"color": "magenta",
 				"links": [
 					{
 						"name": "netflix",
