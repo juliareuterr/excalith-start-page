@@ -120,6 +120,12 @@
 						"url": "https://www.amazon.com/",
 						"icon": "mdi:cart",
 						"target": "_top"
+					},
+					{
+						"name": "instacart",
+						"url": "https://www.instacart.com/",
+						"icon": "mdi:carrot",
+						"target": "_top"
 					}
 				]
 			},
