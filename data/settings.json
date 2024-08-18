@@ -126,6 +126,12 @@
 						"url": "https://www.instacart.com/",
 						"icon": "mdi:carrot",
 						"target": "_top"
+					},
+					{
+						"name": "stardew",
+						"url": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+						"icon": "mdi:barn",
+						"target": "_top"
 					}
 				]
 			},
