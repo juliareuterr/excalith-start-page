@@ -132,6 +132,12 @@
 						"url": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
 						"icon": "mdi:barn",
 						"target": "_top"
+					},
+					{
+						"name": "corepower",
+						"url": "https://www.corepoweryoga.com/yoga-schedules/studio",
+						"icon": "mdi:yoga",
+						"target": "_top"
 					}
 				]
 			},
@@ -161,6 +167,12 @@
 						"name": "youtube",
 						"url": "https://youtube.com",
 						"icon": "mdi:youtube",
+						"target": "_top"
+					},
+					{
+						"name": "instagram",
+						"url": "https://www.instagram.com",
+						"icon": "mdi:instagram",
 						"target": "_top"
 					}
 				]
